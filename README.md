@@ -45,6 +45,7 @@ Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 
 ```
+```
 ## Output:
 ### 1-Norm of a Matrix
 
